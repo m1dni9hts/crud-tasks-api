@@ -62,3 +62,7 @@ DB_DATABASE =
 ```
 npm start
 ```
+## Abrir no navegador
+```
+http://localhost:3003/api-docs/#/
+```
